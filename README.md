@@ -1,1 +1,1 @@
-# fitnessapp
+# FitnessApp Project
