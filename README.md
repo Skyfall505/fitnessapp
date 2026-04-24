@@ -1,1 +1,1 @@
-# FitnessApp Project
+# Опис функціоналу
